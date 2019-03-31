@@ -1,0 +1,12 @@
+{
+    "name": "IoT-GW",
+    "description": "IoT Gateway, node-red, mqtt, mysql and semantic for IoT in fog computing",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_iot-01.prv.json",
+            "credentialsFile": "flows_iot-01.prv_cred.json"
+        }
+    }
+}
